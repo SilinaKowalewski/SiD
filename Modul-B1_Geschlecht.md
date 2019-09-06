@@ -442,15 +442,7 @@ hi:
 
 tc:
 
-vn1: athhm / athhv / athhi / athha
-
-vn2: ateem / ateev / ateei / ateea
-
-vn3: atwem / atwev / atwei / atwea
-
-vn4: atkbm / atkbv / atkbi / atkba
-
-vn5: atkam / atkav / atkai / atkaa
+vn: athh_m/_v/_i/_a, atee_m/_v/_i/_a, atwe_m/_v/_i/_a, atkb_m/_v/_i/_a, atka_m/_v/_i/_a
 
 qt: Mehrfachauswahlmatrix mit horizontalen ao mit offener Nennung
 
@@ -465,25 +457,25 @@ is: \*\*Bitte summieren Sie jeweils die ++Spaltenprozente++ auf 100 Prozent.
 Sollten Sie keine (Stief-)Mutter und/oder keinen (Stief-)Vater haben, kreuzen
 Sie bitte entsprechend „trifft nicht zu“ an.\*\*
 
-it1: (Stamm-m): (Stief-)Mutter
+it1: (athh) Hausarbeit: 3, Suffix: %
 
-it2: (Stamm-v): (Stief-)Vater
+it2: (ate) Erwerbseinkommen: 3, Suffix: %
 
-it3: (Stamm-i): ich selbst
+it3: (atwe) Treffen wichtiger Entscheidungen: 3, Suffix: %
 
-it4: (Stamm-a): andere Personen
+it4: (atkb) Kinderbetreuung: 3, Suffix: %
+
+it5: (atka) trifft nicht zu
 
 st:
 
-ao1 (athh): Hausarbeit: 3, Suffix: %
+ao1: (_m) (Stief-)Mutter
 
-ao2 (ate): Erwerbseinkommen: 3, Suffix: %
+ao2: (_v) (Stief-)Vater
 
-ao3 (atwe): Treffen wichtiger Entscheidungen: 3, Suffix: %
+ao3: (_i) ich selbst
 
-ao4 (atkb): Kinderbetreuung: 3, Suffix: %
-
-ao5 (atka): trifft nicht zu
+ao4: (_a) andere Personen
 
 mv:
 
