@@ -1082,8 +1082,8 @@ KSM-fai09
 
 tc:
 
-vn: faierlge_s/a; faierlmig_s/a; faierlsoz_s/a; faierlspra_s/a; faierlrel_s/a;
-faierlsex_s/a; faierlbeein_s/a
+vn: faierlge_s/_a, faierlmig_s/_a, faierlsoz_s/_a, faierlspra_s/_a, faierlrel_s/_a,
+faierlsex_s/_a, faierlbeein_s/_a
 
 qt: Mehrfachauswahlmatrix
 
@@ -1113,9 +1113,9 @@ it7: (faierlbeein) aufgrund physischer oder psychischer Beeinträchtigung
 
 st:
 
-ao1: 1: (_s) selbst erlebt
+ao1: (_s) selbst erlebt
 
-ao2: 2: (_a) bei anderen beobachtet
+ao2: (_a) bei anderen beobachtet
 
 mv:
 
